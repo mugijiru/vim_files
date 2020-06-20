@@ -1,3 +1,5 @@
+source $VIMRUNTIME/defaults.vim
+
 " source $HOME/.vim.d/settings/vundle.vim
 
 """ 基本設定
