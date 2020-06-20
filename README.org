@@ -1,3 +1,11 @@
 * Vim設定ファイル
 
-プラグインの類は入れてません
+** これは何?
+
+   麦汁さんの Vim の設定ファイルです。
+
+** Install
+
+   1. git clone git@github.com:mugijiru/vim_files.git
+   2. cd vim_files
+   3. sh install.sh
